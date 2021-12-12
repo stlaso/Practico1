@@ -1,0 +1,37 @@
+h1
+{
+    justify-content: center;
+    display: flex;
+    text-align: center;
+}
+u
+{
+    text-align: center;
+}
+h5{
+    padding-top: 100px;
+    padding-left: 100px;
+}
+body
+{
+    background-color: #CCD1D1;
+}
+
+.titulo1
+{
+    padding-top: 50px;
+}
+.imagenes
+{
+    padding-top: 100px;
+    text-align: center;
+}
+
+.img1
+{
+    padding-right: 50px;
+}
+.img2
+{
+    padding-right: 50px;
+}
